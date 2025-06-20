@@ -2,8 +2,9 @@
   "name": "raisin",
   "displayName": "Raisin",
   "description": "Gives a dark shade of purple theme to VS Code.",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "HGlennon",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.101.0"
   },
