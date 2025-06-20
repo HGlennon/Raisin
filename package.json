@@ -1,20 +1,30 @@
 {
-  "name": "frankenstein",
-  "displayName": "Frankenstein",
-  "description": "",
+  "name": "raisin",
+  "displayName": "Raisin",
+  "description": "Gives a dark shade of purple theme to VS Code.",
   "version": "0.0.1",
+  "publisher": "HGlennon",
   "engines": {
     "vscode": "^1.101.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode", 
+    "theme",
+    "dark",
+    "raisin",
+    "purple",
+    "black",
+    "contrast"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Frankenstein",
+        "label": "Raisin",
         "uiTheme": "vs-dark",
-        "path": "./themes/Frankenstein-color-theme.json"
+        "path": "./themes/Raisin-color-theme.json"
       }
     ]
   }
