@@ -4,7 +4,7 @@ Raisin is a Visual Studio Code dark theme that I personally created for myself i
 
 ## Raisin Theme
 
-![image](./theme-example.png)
+![image](https://raw.githubusercontent.com/HGlennon/Raisin/refs/heads/main/theme-example.png)
 
 ## Installation
 
