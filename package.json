@@ -1,8 +1,8 @@
 {
   "name": "raisin",
   "displayName": "Raisin",
-  "description": "Raisin is a dark theme that I personally created for myself in order to both reduce screen glare whilst also being visually appealing, and I hope you enjoy it too!.",
-  "version": "1.0.2",
+  "description": "A dark purple VS Code theme intended to reduce screen glare whilst being visually appealing.",
+  "version": "1.0.3",
   "publisher": "HGlennon",
   "icon": "images/icon.png",
   "engines": {
