@@ -1,6 +1,6 @@
 # Raisin 
 
-Raisin is a Visual Studio Code dark theme that I personally created for myself in order to both reduce screen glare whilst also being visually appealing. This theme is still quite new so some minor tweaks are to be expected, but feel free to try it out and please do give feedback if possible so that Raisin can be the best it can be!  
+Raisin is a Visual Studio Code dark theme that I created for myself in order to both reduce screen glare whilst also being visually appealing. This theme is still quite new so some minor tweaks are to be expected, but feel free to try it out, and please give feedback if possible so that Raisin can be the best it can be!  
 
 ## Raisin Theme
 
