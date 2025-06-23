@@ -16,6 +16,11 @@ Raisin is a Visual Studio Code dark theme that I personally created for myself i
 6. Click Reload to reload the code
 7. From the search bar, search: >Preferences: Color Theme, and then select <b>Raisin</b>.
 
-## Misc
+## Future Changes
+
+- Improved syntax colour support for JavaScript, TypeScript, CSS, Python, C++, Rust, and JSON in particular.
+- Small tweaks and improvements to areas such as highlighting colour etc. 
+
+## Final Note
 
 I am still getting to grips with creating themes, so don't be shy to [file an issue!](https://github.com/HGlennon/Raisin/issues) Suggestions are also very welcome!
